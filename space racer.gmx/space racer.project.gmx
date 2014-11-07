@@ -139,6 +139,7 @@
       <background>background\tex_default_ship</background>
     </backgrounds>
     <background>background\planet_Bog_2275</background>
+    <background>background\background24</background>
   </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
