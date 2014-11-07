@@ -109,6 +109,7 @@
     <sprite>sprites\back1</sprite>
     <sprite>sprites\back2</sprite>
     <sprite>sprites\back3</sprite>
+    <sprite>sprites\flaeskeko</sprite>
   </sprites>
   <backgrounds name="background">
     <background>background\menu_background</background>
